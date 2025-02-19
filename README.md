@@ -1,7 +1,7 @@
 # Assistente Virtual com Python
 Fala pessoal, essa é a Lena, uma assistente virtual que executa os seus comandos de voz.
 
-Features:
+Features:\n
 ⌚ Horário atual: "Que horas são?"
 🔎 Pesquisa no Google: "Pesquisar objeto no Google"
 📺 Pesquisa no Youtube: "Pesquisar receita de macarrão no Youtube"
@@ -13,7 +13,7 @@ Features:
 💻 Abrir programar na sua máquina: "Abrir Spotify"
 🙋🏽‍♀️ Fechar a assistente: "Fechar assistente"
 
-Tecnologia utilizadas:
+Tecnologia utilizadas:\n
 Python: Linguagem de programação
 Speech Recognition: reconhecimento de voz
 gTTS: Sintetização de voz
