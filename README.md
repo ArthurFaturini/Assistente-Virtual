@@ -1,19 +1,19 @@
 # Assistente Virtual com Python
 Fala pessoal, essa é a Lena, uma assistente virtual que executa os seus comandos de voz.
 
-##Features:
-* ** Horário atual:** "Que horas são?"<br>
-* ** Pesquisa no Google:** "Pesquisar objeto no Google"<br>
-* ** Pesquisa no Youtube:** "Pesquisar receita de macarrão no Youtube"<br>
-* ** Cotação de dólar, euro e bitcoin:** "Qual a cotação do dólar no momento?"<br>
-* ** 5 filmes mais populares do momento:** "Quais os filmes mais populares no momento?"<br>
-* ** Abrir a melhor música, banda e álbum do mundo no Spotify:** "Qual a melhor música do mundo?"<br>
-* ** Clima/tempo:** "Qual é o Clima no Rio de Janeiro"<br>
-* ** Tradutor para inglês e português:** "Traduzir para o inglês"<br>
-* ** Abrir programar na sua máquina:** "Abrir Spotify"<br>
-* ** Fechar a assistente:** "Fechar assistente"<br>
+## Features:
+* **Horário atual:** "Que horas são?"<br>
+* **Pesquisa no Google:** "Pesquisar objeto no Google"<br>
+* **Pesquisa no Youtube:** "Pesquisar receita de macarrão no Youtube"<br>
+* **Cotação de dólar, euro e bitcoin:** "Qual a cotação do dólar no momento?"<br>
+* **5 filmes mais populares do momento:** "Quais os filmes mais populares no momento?"<br>
+* **Abrir a melhor música, banda e álbum do mundo no Spotify:** "Qual a melhor música do mundo?"<br>
+* **Clima/tempo:** "Qual é o Clima no Rio de Janeiro"<br>
+* **Tradutor para inglês e português:** "Traduzir para o inglês"<br>
+* **Abrir programar na sua máquina:** "Abrir Spotify"<br>
+* **Fechar a assistente:** "Fechar assistente"<br>
 
-##Tecnologia utilizadas:
+## Tecnologia utilizadas:
 * [Python](https://www.python.org/): Linguagem de programação
 * [Speech Recognition](https://pypi.org/project/SpeechRecognition/): reconhecimento de voz
 * [gTTS](https://pypi.org/project/gTTS/): Sintetização de voz
