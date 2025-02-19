@@ -1,7 +1,6 @@
 import speech_recognition as sr
 import os
 import answers
-import pygame
 import webbrowser as browser
 import sys
 import requests
